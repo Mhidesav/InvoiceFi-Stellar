@@ -1,5 +1,5 @@
 [package]
-name = "invoice-contract"
+name = "financing-pool-contract"
 version.workspace = true
 edition.workspace = true
 license.workspace = true
